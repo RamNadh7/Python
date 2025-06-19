@@ -6,4 +6,4 @@ weight = float(input('Enter your Weight: '))
 # Calculate the bmi using weight and height.
 bmi =weight/(height**2)
 
-print(round(bmi,2))
+print('Your BMI is:',round(bmi,2))
